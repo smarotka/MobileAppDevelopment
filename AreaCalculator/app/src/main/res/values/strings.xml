@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Area Calculator</string>
+    <string name="LengthOneTextView">Length 1:</string>
+    <string name="LengthTwoTextView">Length 2:</string>
+    <string name="LengthOneEditText">Enter Length</string>
+    <string name="LengthTwoEditText">Enter Length</string>
+    <string name="TextViewImageTitle">Select a shape</string>
+    <string name="ButtonCalculate">Calculate</string>
+    <string name="EditTextClear">Clear</string>
+    <string name="Circle">Circle</string>
+    <string name="Square">Square</string>
+    <string name="Triangle">Triangle</string>
+    <string name="Radius">Radius</string>
+    <string name="Breadth">Breadth</string>
+    <string name="Height">Height</string>
+    <string name="Side">Side</string>
+    <string name="LengthValidationMessage">Enter valid length</string>
+    <string name="ShapeSelectMessage">Select shape to calculate area</string>
+
+
+</resources>

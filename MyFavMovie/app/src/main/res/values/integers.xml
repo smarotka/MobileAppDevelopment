@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="rating_seekbar_max">5</integer>
+    <integer name="rating_seekbar_min">0</integer>
+    <integer name="rating_seekbar_progress">1</integer>
+</resources>

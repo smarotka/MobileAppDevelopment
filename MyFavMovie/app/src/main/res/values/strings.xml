@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">My Favorite Movies</string>
+    <string name="MovieActivity">Add Movie</string>
+    <string name="EditActivity" >Edit Movie</string>
+    <string name="DeleteMovieActivity" >Delete Movie</string>
+    <string name="DisplayListYearActivity" >Movies by Year</string>
+    <string name="DisplayListRatingActivity">Movies by Rating</string>
+    <string name="add_movie">Add Movie</string>
+    <string name="edit_movie">Edit</string>
+    <string name="delete">Delete Movie</string>
+    <string name="byyear">Show List by Year</string>
+    <string name="byrating">Show List by Rating</string>
+    <string name="movie_name_hint">Movie Name</string>
+    <string name="description_textView">Description: </string>
+    <string name="genre_textView">Genre:</string>
+    <string name="rating_textView">Rating:</string>
+    <string name="year_editText_hint">Year:</string>
+    <string name="imdb_editText">IMDB:</string>
+    <string name="progress_percentage">0</string>
+    <string name="save_movie_button">Add Movie </string>
+    <string name="save_button">Save Changes</string>
+    <string name="ratingOutOf">/5</string>
+
+    <string-array name="movie_genre">
+        <item>Select</item>
+        <item>Action</item>
+        <item>Animation</item>
+        <item>Comedy</item>
+        <item>Documentary</item>
+        <item>Family</item>
+        <item>Horror</item>
+        <item>Crime</item>
+        <item>Others</item>
+    </string-array >
+
+
+    <!--Add Movie Validation messages-->
+    <string name="moviename_error">Enter Movie Name</string>
+    <string name="description_error">Enter description</string>
+    <string name="genre_error">Select genre</string>
+    <string name="rating_error">Enter rating</string>
+    <string name="year_error">Enter Year</string>
+    <string name="year_Valid_error">Enter valid Year</string>
+    <string name="imdb_error">Enter IMDB Link</string>
+    <string name="imdb_valid_error">Enter only IMDB portal link</string>
+    <string name="empty_array">No Movies Available to Show</string>
+    <string name="nothing_to_delete">No Movies Available to Delete</string>
+    <string name="nothing_to_edit">No Movies Available to Edit</string>
+
+
+
+
+    <!--Movie add and delete msg-->
+    <string name="Movie_Not_Added">Movie Not Added,Please try Again</string>
+    <string name="Movie_Added">Movie Added Succesfully</string>
+    <string name="header_textview">Movies By Year</string>
+    <string name="Name_title">Title: </string>
+    <string name="finish_button">Finish</string>
+
+
+    <string name="Movie_Edit">Movie Edit Succesfully</string>
+    <string name="Movie_Not_Edit">Movie Not Edit,Please try Again</string>
+    <string name="movie_by_rating">Movie By Rating</string>
+    <string name="Movie_Not_Delete">Movie Not Deleted,Please try Again</string>
+
+    <!--Implicit Intent-->
+    <string name="BY_YEAR_VIEW">com.example.vaibhav.myfavmovie.intent.action.VIEW</string>
+    <string name="BY_RATING_VIEW">com.example.vaibhav.myfavmovie.DisplayListRatingActivity.intent.action.VIEW</string>
+
+</resources>
