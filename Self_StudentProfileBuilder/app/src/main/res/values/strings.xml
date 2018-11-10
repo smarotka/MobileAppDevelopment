@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name_main">My Profile</string>
+    <string name="app_name_av">Select Avatar</string>
+    <string name="app_name_edit">Display My Profile</string>
+    <string name="first_name_editText">First Name</string>
+    <string name="first_name_editText_hint">First Name</string>
+    <string name="last_name_editText_hint">Last Name</string>
+    <string name="student_id_editText_hint">Student ID</string>
+    <string name="dept_text_view">Department:</string>
+    <string name="cs_radioButton">CS</string>
+    <string name="sis_radioButton">SIS</string>
+    <string name="bio_radioButton">BIO</string>
+    <string name="other_radioButton">Other</string>
+    <string name="save_button">Save</string>
+    <string name="studentName">Name :</string>
+    <string name="studentID">Student ID:</string>
+    <string name="department">Department:</string>
+    <string name="editButton">Edit</string>
+    <string name="nameText" />
+    <string name="idText" />
+    <string name="departmentText" />
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

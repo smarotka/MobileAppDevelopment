@@ -1,5 +1,4 @@
-//Assignment Name: Homework 01
-//Group Memeber: Mohit Saini, Srishtee Marotkar
+
 
 package com.example.vaibhav.baccalculator;
 

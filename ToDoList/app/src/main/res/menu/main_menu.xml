@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/show_all" android:title="Show All" ></item>
+    <item android:id="@+id/show_completed" android:title="Show Completed" ></item>
+    <item android:id="@+id/show_pending" android:title="Show Pending" ></item>
+</menu>

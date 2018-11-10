@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name_main">Main Activity</string>
+    <string name="app_name_main_web">Web View</string>
+    <string name="source_api_url">https://newsapi.org/v2/sources</string>
+    <string name="news_api_url">https://newsapi.org/v2/top-headlines</string>
+
+    <!--intents-->
+    <string name="source_view">com.example.vaibhav.newsfeeds.mainactivity.VIEW</string>
+    <string name="progress_view">com.example.vaibhav.newsfeeds.progressloaderactivity.VIEW</string>
+    <string name="news_view">com.example.vaibhav.newsfeeds.VIEW</string>
+    <string name="web">com.example.vaibhav.newsfeeds.webviewactivity.VIEW</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="task_id">Task Heading</string>
+    <string name="add_button">Add</string>
+    <string name="enterName" />
+    <string name="addButton">Add</string>
+    <string name="listName" />
+    <string name="priorityText" />
+    <string name="timeText" />
+    <string name="action_settings">Settings</string>
+</resources>

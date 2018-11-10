@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Photo Gallery</string>
+
+    <!--url-->
+    <string name="keyword_url">http://dev.theappsdr.com/apis/photos/keywords.php</string>
+    <string name="image_urls">http://dev.theappsdr.com/apis/photos/index.php</string>
+    <!--Erro messages-->
+    <string name="no_Connection">No Internet Connection</string>
+    <string name="go_button">Go</string>
+    <string name="keyword_textView">Search Keyword</string>
+    <string name="pagination_text">0 of 0</string>
+</resources>

@@ -1,5 +1,4 @@
-//Assignment Name: Homework 02 Area Calculator
-//Group No: 27 : Mohit Saini and Srishtee Marotkar
+
 package com.example.vaibhav.areacalculator;
 
 import android.os.Bundle;

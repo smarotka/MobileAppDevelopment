@@ -1,5 +1,4 @@
-//Assignment Name : Homework03
-//Group no 23: Mohit Saini, Srishtee
+
 package com.example.vaibhav.myfavmovie;
 
 import android.app.AlertDialog;
